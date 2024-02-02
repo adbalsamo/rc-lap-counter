@@ -1,0 +1,10 @@
+RC Lap Counter:
+
+1.	Figure out how to have data from Arduino transfer to site automatically
+2.	Create basic design for how site will look 
+3.	Build the site
+4.	Make it look FANCY
+5.	Add features like:
+    a.	Beep after each lap
+    b.	Laps remaining noise/vocals
+    c.	Info that comes up after race with top 3 racers, best/worst/avg lap time(s), etc.
